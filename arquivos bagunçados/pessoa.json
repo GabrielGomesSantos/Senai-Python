@@ -1,0 +1,28 @@
+{
+    "primeiroName": "Miguel",
+    "segundoName": "Arcanjo",
+    "estaVivo": true,
+    "idade": 27,
+    "endereço": {
+      "rua": "Rua Alfa 33",
+      "cidade": "São Paulo",
+      "estado": "SP",
+      "codigoPostal": "1321-32423"
+    },
+    "numerosTelefones": [
+      {
+        "tipo": "casa",
+        "numero": "212 555-1234"
+      },
+      {
+        "tipo": "escritorio",
+        "numero": "646 555-4567"
+      },
+      {
+        "tipo": "celular",
+        "numero": "123 456-7890"
+      }
+    ],
+    "criancas": [],
+    "cônjuge": null
+  }
